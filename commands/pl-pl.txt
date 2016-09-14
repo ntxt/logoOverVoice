@@ -1,0 +1,12 @@
+skręć w prawo		: right
+skręć w lewo		: left
+idź prosto			: forward
+jeszcze raz			: repeatLast
+jeszcze trochę		: aBitMore
+narysuj kółko		: circle
+rysuj kółko			: circle
+rysuj koło			: circle
+cofnij				: undo
+wróć				: undo
+koniec				: terminate
+zakończ				: terminate

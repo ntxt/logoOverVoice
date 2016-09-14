@@ -1,0 +1,7 @@
+turn right		: right
+turn left 		: left
+go forward		: forward
+do it again		: repeatLast
+a bit more		: aBitMore
+draw circle		: circle
+undo			: undo
